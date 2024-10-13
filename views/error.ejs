@@ -1,0 +1,9 @@
+ <h1><%= locals.title %></h1>
+
+    <% if (locals.errorMessage) { %>
+        <div style="color: red;">
+            <strong>Error:</strong> <%= locals.errorMessage %>
+        </div>
+    <% } %>
+
+    <p>Please <a href="/login">log in</a> to continue.</p>
