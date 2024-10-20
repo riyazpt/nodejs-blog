@@ -34,7 +34,7 @@ To run this application, you will need:
 
 1. **Clone the repository to your local machine:**:
 
-- git clone https://github.com/Muhammedjasim961/blog-application.
+- git clone https://github.com/riyazpt/nodejs-blog.
 
 2. **Navigate to the project directory:**:
 
